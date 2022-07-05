@@ -14,3 +14,11 @@ In other words, given the abstract of a RCT, what role does each sentence serve 
 ```
 
 Where our data is coming from: [PubMed 200k RCT: a Dataset for Sequential Sentence Classification in Medical Abstracts](https://arxiv.org/abs/1710.06071)
+
+## Demo
+
+<p align="center">
+  <img alt="Input" src="https://github.com/khushimitr/PubMedAbstracts/blob/main/images/Screenshot_1.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Output" src="https://github.com/khushimitr/PubMedAbstracts/blob/main/images/Screenshot_2.png" width="45%">
+</p>
