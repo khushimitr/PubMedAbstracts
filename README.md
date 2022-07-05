@@ -16,7 +16,8 @@ Significant treatment effects were found for five of seven primary outcome measu
 Secondary measures based on staff ratings (treatment group only) corroborated gains reported by parents.
 High levels of parent, child and staff satisfaction were reported, along with high levels of treatment fidelity.
 Standardized effect size estimates were primarily in the medium and large ranges and favored the treatment group.</td>
-    <td>**OBJECTIVE**: This RCT examined the efficacy of a manualized social intervention for children with HFASDs.
+    <td>
+     **OBJECTIVE**: This RCT examined the efficacy of a manualized social intervention for children with HFASDs.
      
 **METHODS**: Participants were randomly assigned to treatment or wait-list conditions.
      
