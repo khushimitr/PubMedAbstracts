@@ -24,6 +24,8 @@ Where our data is coming from: [PubMed 200k RCT: a Dataset for Sequential Senten
 </p>
 
 
+
+
 ## Methodology
 
 * `Preprocessing` steps involve changing all the numerics to @.
@@ -65,9 +67,11 @@ Weights of the two top models trained on whole dataset can be found [here](https
 Below is the layer architecure of both the models:
 
 **Model 1:**
+
 ![App ScreenShot](https://github.com/khushimitr/PubMedAbstracts/blob/main/images/Model_1_Conv1D.png)
 
 **Model 2:**
+
 ![App ScreenShot](https://github.com/khushimitr/PubMedAbstracts/blob/main/images/model_2_tribrid.png)
 
 ## Model
@@ -94,7 +98,7 @@ model = tf.keras.models.load_model(model_path,custom_objects={"TextVectorization
 * You can also copy paste any abstract
 
 ```
-    doc = "Your abstract that yoy wish to skim"
+    doc = "Your abstract that you wish to skim"
     make_predictions(doc)
 ```
 
