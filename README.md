@@ -46,9 +46,9 @@ This proved to increase our accuracy to 83%. This concept is called [Feature Eng
 Below is the comparision of the above mentioned models:
 
 <p align="center">
-  <img alt="Model Comparision" src="https://github.com/khushimitr/PubMedAbstracts/blob/main/images/model_compare_20k_rct.png" width="45%">
+  <img alt="Model Comparision" src="https://github.com/khushimitr/PubMedAbstracts/blob/main/images/model_compare_20k_rct.jpg" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="F1 Score Comparision" src="https://github.com/khushimitr/PubMedAbstracts/blob/main/images/f1_score.png" width="45%">
+  <img alt="F1 Score Comparision" src="https://github.com/khushimitr/PubMedAbstracts/blob/main/images/f1_score.jpg" width="45%">
 </p>
 
 Now, we took the best two models and trained them on whole dataset.
