@@ -23,9 +23,6 @@ Where our data is coming from: [PubMed 200k RCT: a Dataset for Sequential Senten
   <img alt="Output" src="https://github.com/khushimitr/PubMedAbstracts/blob/main/images/Screenshot_2.png" width="45%">
 </p>
 
-
-
-
 ## Methodology
 
 * `Preprocessing` steps involve changing all the numerics to @.
@@ -101,7 +98,6 @@ model = tf.keras.models.load_model(model_path,custom_objects={"TextVectorization
     doc = "Your abstract that you wish to skim"
     make_predictions(doc)
 ```
-
 
 ## Some Example Outputs
 
